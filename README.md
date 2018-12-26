@@ -18,13 +18,13 @@ A. Proces rejestracji aplikacji w allegro
 
 B. Uruchomienie demo na Twoim serwerze.
 
---
+
 INFORMACJA: całe demo jest oparte o napisany przez Wiatrogon'a php-allegro-rest-api 
 dostępne tu: https://github.com/Wiatrogon/php-allegro-rest-api
 Ja tylko troszkę poprawiłem procedurę get() i utworzyłem ApiTest.php w oparciu
 o fragmenty tamtego pliku README.
 Licencja wynika z licencji na php-allegro-rest-api
---
+
 
 1. Demo używa PHP5. Ja używałem v 5.6. Jeśli coś Ci nie działa, to znaczy,
    że brakuje jakichś modułów w PHP. Proponuję phpinfo() i dodanie modułów
